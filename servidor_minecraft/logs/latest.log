@@ -1,0 +1,107 @@
+[02Jul2026 02:51:44.555] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server, nogui]
+[02Jul2026 02:51:44.558] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 25.0.3+9-2-24.04.2-Ubuntu
+[02Jul2026 02:51:44.558] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.4 starting: java version 25.0.3 by Ubuntu; OS Linux arch amd64 version 6.8.0-1052-azure
+[02Jul2026 02:51:44.650] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[02Jul2026 02:51:44.748] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/literate-octo-fishstick/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[02Jul2026 02:51:45.019] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[02Jul2026 02:51:45.168] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments [nogui]
+[02Jul2026 02:51:51.016] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 64.0.8, for MC 26.1.2 with MCP 20260409.101008
+[02Jul2026 02:51:51.018] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v64.0.8 Initialized
+[02Jul2026 02:51:51.025] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[02Jul2026 02:51:51.433] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[02Jul2026 02:51:51.936] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA_OUTDATED Current: 64.0.8 Target: 64.0.11
+[02Jul2026 02:51:52.455] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[02Jul2026 02:51:54.953] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1515 recipes
+[02Jul2026 02:51:54.971] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1617 advancements
+[02Jul2026 02:51:55.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 26.1.2
+[02Jul2026 02:51:55.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[02Jul2026 02:51:55.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[02Jul2026 02:51:55.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[02Jul2026 02:51:55.261] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[02Jul2026 02:51:55.400] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02Jul2026 02:51:55.401] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[02Jul2026 02:51:55.401] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02Jul2026 02:51:55.401] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[02Jul2026 02:51:55.425] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[02Jul2026 02:51:55.675] [Server thread/INFO] [net.minecraft.server.level.progress.LoggingLevelLoadListener/]: Loading 0 persistent chunks...
+[02Jul2026 02:51:55.676] [Server thread/INFO] [net.minecraft.server.level.progress.LoggingLevelLoadListener/]: Preparing spawn area: 100%
+[02Jul2026 02:51:55.689] [Server thread/INFO] [net.minecraft.server.level.progress.LoggingLevelLoadListener/]: Time elapsed: 15 ms
+[02Jul2026 02:51:55.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (0.279s)! For help, type "help"
+[02Jul2026 02:51:55.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Jul2026 02:51:55.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Jul2026 02:51:55.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Jul2026 02:51:55.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Jul2026 02:51:55.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Jul2026 02:51:55.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Jul2026 02:51:55.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02Jul2026 02:51:55.925] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[02Jul2026 02:52:55.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
+[02Jul2026 02:58:57.725] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MaxiVelasques[/10.212.112.49:55006] logged in with entity id 34 at (10.5, 99.0, -5.5)
+[02Jul2026 02:58:57.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaxiVelasques joined the game
+[02Jul2026 03:00:09.335] [Server thread/INFO] [net.minecraft.world.entity.npc.villager.Villager/]: Villager Villager['Nitwit'/194, l='ServerLevel[world]', x=22.50, y=99.00, z=116.70] died, message: 'Nitwit froze to death'
+[02Jul2026 03:00:55.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaxiVelasques has made the advancement [Stone Age]
+[02Jul2026 03:00:59.332] [Server thread/INFO] [net.minecraft.world.entity.npc.villager.Villager/]: Villager Villager['Villager'/193, l='ServerLevel[world]', x=22.50, y=99.63, z=116.70] died, message: 'Villager froze to death'
+[02Jul2026 03:01:15.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaxiVelasques has made the advancement [Getting an Upgrade]
+[02Jul2026 03:03:46.486] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: d0ce3_[/10.212.112.219:54841] logged in with entity id 1042 at (-1.5, 102.0, -1.5)
+[02Jul2026 03:03:46.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ joined the game
+[02Jul2026 03:06:10.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Stone Age]
+[02Jul2026 03:06:51.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Getting an Upgrade]
+[02Jul2026 03:08:00.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Monster Hunter]
+[02Jul2026 03:11:50.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Acquire Hardware]
+[02Jul2026 03:12:04.236] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YAEGER[/10.212.112.96:52762] logged in with entity id 3456 at (-7.5, 104.0, 3.5)
+[02Jul2026 03:12:04.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YAEGER joined the game
+[02Jul2026 03:12:17.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Isn't It Iron Pick]
+[02Jul2026 03:14:44.285] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1212[/10.212.112.43:58346] logged in with entity id 4200 at (-1.5, 102.0, 1.5)
+[02Jul2026 03:14:44.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1212 joined the game
+[02Jul2026 03:15:25.693] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1212 lost connection: Disconnected
+[02Jul2026 03:15:25.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1212 left the game
+[02Jul2026 03:16:00.092] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: d0ce3_ lost connection: Disconnected
+[02Jul2026 03:16:00.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ left the game
+[02Jul2026 03:19:09.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YAEGER has made the advancement [Acquire Hardware]
+[02Jul2026 03:24:48.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaxiVelasques has made the advancement [Monster Hunter]
+[02Jul2026 03:25:38.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YAEGER has made the advancement [Stone Age]
+[02Jul2026 03:25:54.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YAEGER has made the advancement [Getting an Upgrade]
+[02Jul2026 03:28:42.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaxiVelasques has made the advancement [Sweet Dreams]
+[02Jul2026 03:28:54.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YAEGER has made the advancement [Sweet Dreams]
+[02Jul2026 03:29:42.585] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YAEGER lost connection: Disconnected
+[02Jul2026 03:29:42.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YAEGER left the game
+[02Jul2026 03:30:22.306] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YAEGER[/10.212.112.96:51883] logged in with entity id 8307 at (62.46115728566031, 66.0, 62.38323637384196)
+[02Jul2026 03:30:22.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YAEGER joined the game
+[02Jul2026 03:31:18.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaxiVelasques has made the advancement [Acquire Hardware]
+[02Jul2026 03:32:22.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YAEGER fell from a high place
+[02Jul2026 03:34:07.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaxiVelasques has made the advancement [Isn't It Iron Pick]
+[02Jul2026 03:36:50.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaxiVelasques has made the advancement [Suit Up]
+[02Jul2026 03:37:55.331] [Server thread/INFO] [net.minecraft.world.entity.npc.villager.Villager/]: Villager Villager['Farmer'/192, l='ServerLevel[world]', x=13.30, y=91.04, z=149.49] died, message: 'Farmer froze to death'
+[02Jul2026 03:40:17.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YAEGER has made the advancement [Not Today, Thank You]
+[02Jul2026 03:40:48.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YAEGER has made the advancement [Monster Hunter]
+[02Jul2026 03:42:22.086] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1212[/10.212.112.43:56588] logged in with entity id 10466 at (3.699999988079071, 109.0, 10.6997530723701)
+[02Jul2026 03:42:22.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1212 joined the game
+[02Jul2026 03:42:28.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1212> soto sos re puto
+[02Jul2026 03:42:30.737] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1212 lost connection: Disconnected
+[02Jul2026 03:42:30.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1212 left the game
+[02Jul2026 03:44:28.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaxiVelasques has made the advancement [Not Today, Thank You]
+[02Jul2026 03:48:56.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YAEGER has made the advancement [Suit Up]
+[02Jul2026 03:51:36.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaxiVelasques has made the advancement [Diamonds!]
+[02Jul2026 03:52:51.634] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YAEGER lost connection: Disconnected
+[02Jul2026 03:52:51.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YAEGER left the game
+[02Jul2026 03:57:29.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaxiVelasques has made the advancement [Cover Me with Diamonds]
+[02Jul2026 04:08:27.841] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: d0ce3_[/10.212.112.219:59970] logged in with entity id 15955 at (-150.0919804049271, 23.0, 3.300000011920929)
+[02Jul2026 04:08:27.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ joined the game
+[02Jul2026 04:09:31.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Suit Up]
+[02Jul2026 04:10:49.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaxiVelasques has made the advancement [Ice Bucket Challenge]
+[02Jul2026 04:13:47.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Sneak 100]
+[02Jul2026 04:25:02.837] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: d0ce3_ lost connection: Disconnected
+[02Jul2026 04:25:02.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ left the game
+[02Jul2026 04:46:14.284] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MaxiVelasques lost connection: Disconnected
+[02Jul2026 04:46:14.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MaxiVelasques left the game
+[02Jul2026 04:46:22.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[02Jul2026 04:46:22.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Jul2026 04:46:22.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Jul2026 04:46:22.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Jul2026 04:46:22.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Jul2026 04:46:22.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Jul2026 04:46:22.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Jul2026 04:46:22.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Jul2026 04:46:22.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Jul2026 04:46:22.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Jul2026 04:46:22.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
